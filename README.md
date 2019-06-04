@@ -50,17 +50,16 @@ Lo que se espera de esta investigación es dar una solución a estas interrogant
 Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 encuestas en línea, estos fueron los resultados:
  
 ![imagen](https://i.ibb.co/18C26dJ/Captura-de-pantalla-2019-06-03-a-la-s-21-50-17.png)
-![imagen]("https://i.ibb.co/1mg3tyF/Captura-de-pantalla-2019-06-03-a-la-s-21-50-52.png)
 ![imagen](https://i.ibb.co/Hp9B3zk/Captura-de-pantalla-2019-06-03-a-la-s-21-51-05.png)
 ![imagen](https://i.ibb.co/wB2HCQ1/Captura-de-pantalla-2019-06-03-a-la-s-21-51-19.png)
 ![imagen](https://i.ibb.co/hK644WS/Captura-de-pantalla-2019-06-03-a-la-s-21-51-43.png)
 
  Los resultados indicaron que:
--Las personas eligen una institución bancaria por asignación de cuenta por nómina, el servicio de aplicaciones e inmersión digital; y la cercanía del banco a su domicilio. 
--Los usuarios utilizan el cajero entre tres a cinco veces al mes. 
--Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y  la disponibilidad. 
--La peor experiencia que los clientes han tenido es que el cajero no entrega la cantidad solicitada pero sí refleja el retiro en el ticket y/o dispositivos. El 60% de los casos ocurrieron en Citibanamex. 
--Otros aspectos que generan una mala experiencia es que los cajeros se tragan la tarjeta, están fuera de servicio y demora en fila. 
+- Las personas eligen una institución bancaria por asignación de cuenta por nómina, el servicio de aplicaciones e inmersión digital; y la cercanía del banco a su domicilio. 
+- Los usuarios utilizan el cajero entre tres a cinco veces al mes. 
+- Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y  la disponibilidad. 
+- La peor experiencia que los clientes han tenido es que el cajero no entrega la cantidad solicitada pero sí refleja el retiro en el ticket y/o dispositivos. El 60% de los casos ocurrieron en Citibanamex. 
+- Otros aspectos que generan una mala experiencia es que los cajeros se tragan la tarjeta, están fuera de servicio y demora en fila. 
  
 ## Método de investigación 
 
@@ -74,7 +73,7 @@ El proyecto se desarrolló bajo el mindset Design Thinking, utilizando el proces
 
 El equipo en conjunto generamos ideas de las problemáticas más frecuente en ATM. La primera hipótesis fue “El principal problema en cajeros es el cobro de comisiones”. 
 
-![lluvia](https://i.ibb.co/r2RpLTn/Captura-de-pantalla-2019-06-03-a-la-s-19-33-44.png)
+![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
 
 ### Observación en campo ###
 Realizamos la visita a la zona de cajeros de las sucursales bancarias Bancomer y Citibanamex para ver el número de cajeros, comportamiento e interacción de las personas al entrar/salir del cajero, tiempo en que se realiza una operación, visualización de elementos dentro del cajero (carteles, botes de basura, teléfonos especiales, etc.), comparación de cajeros para ver si había una consistencia en el diseño y modelo de las máquinas.
