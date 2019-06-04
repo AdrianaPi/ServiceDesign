@@ -6,16 +6,14 @@
 - [Descripción](#resumen-del-proyecto)
 - [Objetivos](#objetivos)
 - [Problema](#problema)
-- [Método de investigación](#metodo-de-investigacion)
+- [Método de investigación](#método-de-investigación)
 - [Etapa de descubrimiento](#etapa-de-descubrimiento)
 - [Lluvia de ideas](#lluvia-de-ideas)
-- [Observación de campo](#observación-de-campo)
+- [Observación en campo](#observación-en-campo)
 - [Benchmark](#benchmark)
 - [Entrevistas](#entrevistas)
 - [User Personas](#user-personas)
 - [Mapa de Stakeholders](#mapa-de-stakeholders)
-- [Journey Map](#journey-map)
-- [Definición del público objetivo](#definicion-del-publico-objetivo)
 - [Customer Journey Map](#customer-journey-map)
 - [Etapa de ideación](#etapa-de-ideación)
 - [Prototipado](#prototipado)
@@ -23,7 +21,7 @@
 - [Propuesta](#propuesta)
 
 
-## Resumen del proyecto 
+## Resumen del proyecto ##
 
 La consultoría, Touchpoints México, nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera de México. El objetivo fue brindar una propuesta de valor bajo la metodología Service Design. A través de la herramienta doble diamante, identificamos entre los usuarios de ATM que la principal queja era la falta de entrega de efectivo. Durante el proceso identificamos que los usuarios siempre buscan de un contacto humano para dar seguimiento a su problemática. Con esta premisa presente consideramos las encuestas, entrevistas de profundidad y demás técnicas que nos permitieron definir el principal problema que fue “el ATM no entregaba el dinero, pero si entregaba el ticket y se registraba la transacción”, esto nos dio pie a investigar a profundidad que era lo que sucedía, así que se llegó a la propuesta de que un sólo cajero automático tenía un costo de $25,000 así que tener cajeros nuevos no podría ser la solución por lo menos no a corto plazo, por ello reformulamos el servicio proponiendo que el mismo cajero arroje un ticket de incidencia que permita al tarjetahabiente sentirse más tranquilo y certero de que su dinero no se había perdido y que se regresaría por la incidencia que causó el banco. Darles credibilidad al banco a través de tres pilares fundamentales como es la confianza, las experiencias y la pertenencia a nuestro banco. La propuesta de rediseño está enfocada en cinco touchpoints,  rediseñar la interfaz del cajero para generar un reporte del problema, brindar un ticket o comprobante donde indiqué que el cajero presentó el problema, elaborar un cartel informativo sobre dar seguimiento vía telefónica y el cual se ubicará en la zona de cajeros. También elaboramos un script del diálogo que el operador de call center deberá de decir, y en la aplicación colocamos la opción de conocer el estatus del reporte. 
 
@@ -61,15 +59,15 @@ Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 en
 - La peor experiencia que los clientes han tenido es que el cajero no entrega la cantidad solicitada pero sí refleja el retiro en el ticket y/o dispositivos. El 60% de los casos ocurrieron en Citibanamex. 
 - Otros aspectos que generan una mala experiencia es que los cajeros se tragan la tarjeta, están fuera de servicio y demora en fila. 
  
-## Método de investigación 
+## Método de investigación ##
 
 El proyecto se desarrolló bajo el mindset Design Thinking, utilizando el proceso de diseño doble diamante para confirmar la definición del problema y crear la solución.
  
 ![mindset](https://i.ibb.co/r2RpLTn/Captura-de-pantalla-2019-06-03-a-la-s-19-33-44.png)
 
-### Etapa de Descubrimiento
+### Etapa de Descubrimiento ###
 
-#### Lluvia de ideas
+#### Lluvia de ideas ###
 
 El equipo en conjunto generamos ideas de las problemáticas más frecuente en ATM. La primera hipótesis fue “El principal problema en cajeros es el cobro de comisiones”. 
 
@@ -83,14 +81,14 @@ Realizamos la visita a la zona de cajeros de las sucursales bancarias Bancomer y
 ### Benchmark ###
 El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcionamiento y estructura de cajeros automáticos de bancos como Citibanamex, Santander y BBVA Bancomer con el fin de saber qué era lo que estaban haciendo bien y cuáles serían las áreas de oportunidad de cada uno.
 
-### Entrevista ###
+### Entrevistas ###
 Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
 
 ![entrevista](https://i.ibb.co/JpLqJjG/Captura-de-pantalla-2019-06-03-a-la-s-23-30-47.png)
 
 ![entrevista](https://i.ibb.co/vzBF8Gv/Captura-de-pantalla-2019-06-03-a-la-s-23-30-01.png)
 
-## User Personas
+## User Personas ##
 
  Con base en los resultados de la entrevista generamos un mapa de empatía por cada uno de los entrevistados para tener un conocimiento más profundo de su persona, su entorno y sus necesidades como usuarios de cajeros automáticos. Posterior a ello realizamos los ejes de comportamientos y los arquetipos para definir a nuestras user personas, definiendo dos, Magda Torres es la persona no digital y Pedro Velázquez la persona digital. 
 
@@ -109,13 +107,13 @@ Falta de personal que le ayude a realizar una operación.
 Desconocimiento del proceso para recuperar su dinero cuando hay una falla en el ATM.
 Los bancos no se hacen responsables por las fallas. 
 
-### Mapa de Stakeholders
+### Mapa de Stakeholders ##
 
 En este punto, mapeamos los stakeholders que están involucrados en el servicio de uso de cajero, específicamente cuando el usuario tiene un problema con éste.  El mapa destaca el área de atención a cliente al ser los puntos principales de interacción. 
 
 ![stakeholders](https://i.ibb.co/qF3VZdV/Captura-de-pantalla-2019-06-03-a-la-s-22-32-11.png)
 
-## Journey Map
+## Customer Journey Map ##
 
 ![journeymap](https://i.ibb.co/ch090WY/Captura-de-pantalla-2019-06-03-a-la-s-22-38-58.png)
 
@@ -123,9 +121,8 @@ La elaboración del journey map fue un punto clave para visualizar los momentos 
 no recibir el efectivo cuando se espera salga del ATM, recibir un ticket y/o notificación de que el retiro se hizo con éxito y se refleja un saldo negativo, el momento en el que el cajero da la opción de realizar otra operación y el usuario lo que realmente espera es tener una solución, y por último cuando el usuario repite la consulta de saldo para verificar que el retiro no fue efectuado pero sí sucedió. Posterior a estos cuatro puntos el usuario pasa por un momento de incertidumbre por no saber qué hacer, con quién acudir o si realmente recuperará el dinero. 
 El punto de más satisfacción sucede cuando el usuario da solución a su problema y sale de la sucursal con su efectivo. 
 
-![journeymap](https://i.ibb.co/D85vpFm/Captura-de-pantalla-2019-06-03-a-la-s-22-44-08.png)
 
-## Etapa de Ideación
+## Etapa de Ideación ##
 
 A través de la técnica How might we? y de manera colaborativa generamos preguntas para definir el problema y hallar oportunidades para dar solución. La pregunta a resolver es:
 
