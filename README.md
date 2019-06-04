@@ -86,6 +86,9 @@ El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcion
 ### Entrevista ###
 Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
 
+![entrevista](https://i.ibb.co/JpLqJjG/Captura-de-pantalla-2019-06-03-a-la-s-23-30-47.png)
+
+![entrevista](https://i.ibb.co/vzBF8Gv/Captura-de-pantalla-2019-06-03-a-la-s-23-30-01.png)
 
 ## User Personas
 
@@ -115,6 +118,7 @@ En este punto, mapeamos los stakeholders que están involucrados en el servicio 
 ## Journey Map
 
 ![journeymap](https://i.ibb.co/ch090WY/Captura-de-pantalla-2019-06-03-a-la-s-22-38-58.png)
+
 La elaboración del journey map fue un punto clave para visualizar los momentos ante, durante y después del problema de retirar el efectivo, planteando que la situación ocurre cuando el servicio en sucursal no está disponible, es decir, entre semana después de las 16:hrs, fines de semana o en cajeros que están en centros comerciales u otro establecimientos. Involucra la interacción con los stakeholders, los momentos de más dolor y/o satisfacción, las acciones y pensamientos del usuario, que ayudaron a pensar en la propuesta para solucionar el problema. Identificamos cuatro touchpoints críticos y con más dolor, estos fueron: 
 no recibir el efectivo cuando se espera salga del ATM, recibir un ticket y/o notificación de que el retiro se hizo con éxito y se refleja un saldo negativo, el momento en el que el cajero da la opción de realizar otra operación y el usuario lo que realmente espera es tener una solución, y por último cuando el usuario repite la consulta de saldo para verificar que el retiro no fue efectuado pero sí sucedió. Posterior a estos cuatro puntos el usuario pasa por un momento de incertidumbre por no saber qué hacer, con quién acudir o si realmente recuperará el dinero. 
 El punto de más satisfacción sucede cuando el usuario da solución a su problema y sale de la sucursal con su efectivo. 
