@@ -1,10 +1,10 @@
 
-# S E R V I C E       **D E S I G N** #
+# S E R V I C E       D E S I G N #
 
 ## Índice
 
 - [Descripción](#resumen-del-proyecto)
-- [Objetivos](#objetivos)
+- [Objetivo](#objetivo)
 - [Problema](#problema)
 - [Método de investigación](#método-de-investigación)
 - [Etapa de descubrimiento](#etapa-de-descubrimiento)
@@ -23,23 +23,20 @@
 
 ## Resumen del proyecto ##
 
-La consultoría Touchpoints México nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera de México. El objetivo fue brindar una propuesta de valor bajo la metodología Service Design. A través de la herramienta doble diamante, identificamos entre los usuarios de ATM que la principal queja era la falta de entrega de efectivo. Durante el proceso identificamos que los usuarios siempre buscan de un contacto humano para dar seguimiento a su problemática. Con esta premisa presente consideramos las encuestas, entrevistas de profundidad y demás técnicas que nos permitieron definir el principal problema que fue “el ATM no entregaba el dinero, pero si entregaba el ticket y se registraba la transacción”, esto nos dio pie a investigar a profundidad que era lo que sucedía, así que se llegó a la propuesta de que un sólo cajero automático tenía un costo de $25,000 así que tener cajeros nuevos no podría ser la solución por lo menos no a corto plazo, por ello reformulamos el servicio proponiendo que el mismo cajero arroje un ticket de incidencia que permita al tarjetahabiente sentirse más tranquilo y certero de que su dinero no se había perdido y que se regresaría por la incidencia que causó el banco. Darles credibilidad al banco a través de tres pilares fundamentales como es la confianza, las experiencias y la pertenencia a nuestro banco. La propuesta de rediseño está enfocada en cinco touchpoints,  rediseñar la interfaz del cajero para generar un reporte del problema, brindar un ticket o comprobante donde indiqué que el cajero presentó el problema, elaborar un cartel informativo sobre dar seguimiento vía telefónica y el cual se ubicará en la zona de cajeros. También elaboramos un script del diálogo que el operador de call center deberá de decir, y en la aplicación colocamos la opción de conocer el estatus del reporte. 
+La consultoría Touchpoints México nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera de México. El objetivo consistió en brindar una propuesta de valor bajo la metodología Service Design. Utilizando las lentes del doble diamante identificamos la principal queja de los usuarios de los cajeros ATM. En el transcurso del proyecto conocimos diversas técnicas dirigidas a fomentar la creatividad y el entendimiento del problema.
 
 
-## Objetivos
+## Objetivo
 
 Identificar el principal problema que existe en los cajeros ATM para ofrecer una solución que mejore la experiencia de servicios a los clientes.
 
 
 ## Problema 
  
-El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
+El cajero automático ha evolucionado en los últimos años no solo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias, ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel  prioritario para los bancos al contribuir en una mayor penetración bancaria. 
 
-![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
+Estos aparatos,  además de ser claramente uno de los canales de autoservicio más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Los usuarios argumentaron que las máquinas les ocasionaron un agravio a sus bolsillos en conjunto por 2 mil 262 millones de pesos.
 
-El cajero automático ha evolucionado en los últimos años no sólo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias; vehiculo de ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel protagónico y prioritario para los bancos al contribuir en una mayor penetración bancaria. 
-
-Estos aparatos  además de ser claramente uno de los canales de autoservicio más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos.Los usuarios argumentaron que las máquinas le ocasionaron un agravio a sus bolsillos en conjunto por 2 mil 262 millones de pesos.
 En consecuencia a todo esto, es que surgen las siguientes preguntas de investigación: 
 • ¿Cuál es el mayor problema de nuestros tarjetahabientes? ¿Cómo remediarlo?
 • ¿Cómo aterrizar una propuesta que no afecte a nuestro cliente? ¿Cómo ayudar verdaderamente a nuestro tarjetahabiente sin afectar a nuestro cliente?
@@ -58,7 +55,11 @@ Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 en
 - Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y  la disponibilidad. 
 - La peor experiencia que los clientes han tenido es que el cajero no entrega la cantidad solicitada pero sí refleja el retiro en el ticket y/o dispositivos. El 60% de los casos ocurrieron en Citibanamex. 
 - Otros aspectos que generan una mala experiencia es que los cajeros se tragan la tarjeta, están fuera de servicio y demora en fila. 
- 
+
+El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
+
+![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
+
 ## Método de investigación ##
 
 El proyecto se desarrolló bajo el mindset Design Thinking, utilizando el proceso de diseño doble diamante para confirmar la definición del problema y crear la solución.
