@@ -1,5 +1,5 @@
 
-# S E R V I C E       D E S I G N #
+# S E R V I C E        D E S I G N 
 
 ## Índice
 
@@ -33,13 +33,15 @@ Identificar el principal problema que existe en los cajeros ATM para ofrecer una
 
 ## Problema 
  
-El cajero automático ha evolucionado en los últimos años no solo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias, ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel  prioritario para los bancos al contribuir en una mayor penetración bancaria. 
+El cajero automático ha evolucionado en los últimos años no solo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias, ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel  prioritario para contribuir a una mayor penetración bancaria en la población general. 
 
-Estos aparatos,  además de ser claramente uno de los canales de autoservicio más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Los usuarios argumentaron que las máquinas les ocasionaron un agravio a sus bolsillos en conjunto por 2 mil 262 millones de pesos.
+Estos aparatos,  además de ser claramente uno de los canales de autoservicio más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Se argumenta que las máquinas ocasionaron un agravio a los bolsillos por 2 mil 262 millones de pesos en conjunto.
 
-En consecuencia a todo esto, es que surgen las siguientes preguntas de investigación: 
-• ¿Cuál es el mayor problema de nuestros tarjetahabientes? ¿Cómo remediarlo?
-• ¿Cómo aterrizar una propuesta que no afecte a nuestro cliente? ¿Cómo ayudar verdaderamente a nuestro tarjetahabiente sin afectar a nuestro cliente?
+En consecuencia a todo esto, surgen las siguientes preguntas de investigación: 
+* ¿Cuál es el mayor problema de nuestros tarjetahabientes? 
+* ¿Cómo remediarlo?
+* ¿Cómo aterrizar una propuesta que no afecte a nuestro cliente? ¿Cómo ayudar verdaderamente a nuestro tarjetahabiente sin afectar a nuestro cliente?
+
 Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo una propuesta que fomente el darle una solución efectiva y sin desgaste a nuestros tarjetahabientes.
 
 Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 encuestas en línea, estos fueron los resultados:
