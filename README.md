@@ -51,6 +51,12 @@ El equipo en conjunto generamos ideas de las problemáticas más frecuente en AT
 
 ![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
 
+### Mapa de Stakeholders ##
+
+En este punto, mapeamos los stakeholders que están involucrados en el servicio de uso de cajero.  El mapa destaca con amarillo el área de atención a cliente por ser los puntos principales de interacción. Nos interesaba confirmar la hipótesis o reformularla al incluir la información de la dinámica total del servicio de cajeros. También, nos sirvió de guía para recabar el testimonio de las personas clave. Logramos tener contacto con usuarios, ejecutivos bancarios, recepcionista y un encargado de la UNE (Unidad Especializada de Atención) de un banco conocido.
+
+![stakeholders](https://i.ibb.co/qF3VZdV/Captura-de-pantalla-2019-06-03-a-la-s-22-32-11.png)
+
 ### Observación en campo ###
 
 Realizamos la visita a la zona de cajeros de las sucursales bancarias Bancomer y Citibanamex para ver el número de cajeros, comportamiento e interacción de las personas al entrar/salir del cajero, tiempo en que se realiza una operación, visualización de elementos dentro del cajero (carteles, botes de basura, teléfonos especiales, etc.), comparación de cajeros para ver si había una consistencia en el diseño y modelo de las máquinas.
@@ -65,9 +71,7 @@ El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcion
 
 Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
 
-![entrevista](https://i.ibb.co/JpLqJjG/Captura-de-pantalla-2019-06-03-a-la-s-23-30-47.png)
-
-![entrevista](https://i.ibb.co/vzBF8Gv/Captura-de-pantalla-2019-06-03-a-la-s-23-30-01.png)
+### Encuestas ###
 
 Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 encuestas en línea, estos fueron los resultados:
  
@@ -82,6 +86,9 @@ Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 en
 - Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y  la disponibilidad. 
 - La peor experiencia que los clientes han tenido es que el cajero no entrega la cantidad solicitada pero sí refleja el retiro en el ticket y/o dispositivos. El 60% de los casos ocurrieron en Citibanamex. 
 - Otros aspectos que generan una mala experiencia es que los cajeros se tragan la tarjeta, están fuera de servicio y demora en fila. 
+
+
+### Problematizar ###
 
 El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
 
@@ -106,11 +113,7 @@ Falta de personal que le ayude a realizar una operación.
 Desconocimiento del proceso para recuperar su dinero cuando hay una falla en el ATM.
 Los bancos no se hacen responsables por las fallas. 
 
-### Mapa de Stakeholders ##
 
-En este punto, mapeamos los stakeholders que están involucrados en el servicio de uso de cajero, específicamente cuando el usuario tiene un problema con éste.  El mapa destaca el área de atención a cliente al ser los puntos principales de interacción. 
-
-![stakeholders](https://i.ibb.co/qF3VZdV/Captura-de-pantalla-2019-06-03-a-la-s-22-32-11.png)
 
 ## Customer Journey Map ##
 
