@@ -1,5 +1,5 @@
 
-# S E R V I C E        D E S I G N 
+# Cajero ATM : Una mirada desde el Service Design 
 
 ## Índice
 
@@ -25,13 +25,7 @@
 
 La consultoría Touchpoints México nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera de México. El objetivo consistió en brindar una propuesta de valor bajo la metodología Service Design. Utilizando las lentes del doble diamante identificamos la principal queja de los usuarios de los cajeros ATM. En el transcurso del proyecto conocimos diversas técnicas dirigidas a fomentar la creatividad y el entendimiento del problema.
 
-
-## Objetivo
-
-Identificar el principal problema que existe en los cajeros ATM para ofrecer una solución que mejore la experiencia de servicios a los clientes.
-
-
-## Problema 
+## Introducción
  
 El cajero automático ha evolucionado en los últimos años no solo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias, ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel  prioritario para contribuir a una mayor penetración bancaria en la población general. 
 
@@ -43,6 +37,37 @@ En consecuencia a todo esto, surgen las siguientes preguntas de investigación:
 * ¿Cómo aterrizar una propuesta que no afecte a nuestro cliente? ¿Cómo ayudar verdaderamente a nuestro tarjetahabiente sin afectar a nuestro cliente?
 
 Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo una propuesta que fomente el darle una solución efectiva y sin desgaste a nuestros tarjetahabientes.
+
+## Objetivo
+
+Identificar el principal problema que existe en los cajeros ATM para ofrecer una solución que mejore la experiencia de servicios a los clientes.
+
+
+### Etapa de Descubrimiento ###
+
+#### Lluvia de ideas ###
+
+El equipo en conjunto generamos ideas de las problemáticas más frecuente en ATM. La primera hipótesis fue “El principal problema en cajeros es el cobro de comisiones”. 
+
+![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
+
+### Observación en campo ###
+
+Realizamos la visita a la zona de cajeros de las sucursales bancarias Bancomer y Citibanamex para ver el número de cajeros, comportamiento e interacción de las personas al entrar/salir del cajero, tiempo en que se realiza una operación, visualización de elementos dentro del cajero (carteles, botes de basura, teléfonos especiales, etc.), comparación de cajeros para ver si había una consistencia en el diseño y modelo de las máquinas.
+
+![observacion](https://i.ibb.co/HpPn8Kj/Captura-de-pantalla-2019-06-03-a-la-s-22-49-37.png)
+
+### Benchmark ###
+
+El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcionamiento y estructura de cajeros automáticos de bancos como Citibanamex, Santander y BBVA Bancomer con el fin de saber qué era lo que estaban haciendo bien y cuáles serían las áreas de oportunidad de cada uno.
+
+### Entrevistas ###
+
+Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
+
+![entrevista](https://i.ibb.co/JpLqJjG/Captura-de-pantalla-2019-06-03-a-la-s-23-30-47.png)
+
+![entrevista](https://i.ibb.co/vzBF8Gv/Captura-de-pantalla-2019-06-03-a-la-s-23-30-01.png)
 
 Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 encuestas en línea, estos fueron los resultados:
  
@@ -61,35 +86,6 @@ Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 en
 El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
 
 ![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
-
-## Método de investigación ##
-
-El proyecto se desarrolló bajo el mindset Design Thinking, utilizando el proceso de diseño doble diamante para confirmar la definición del problema y crear la solución.
- 
-![mindset](https://i.ibb.co/r2RpLTn/Captura-de-pantalla-2019-06-03-a-la-s-19-33-44.png)
-
-### Etapa de Descubrimiento ###
-
-#### Lluvia de ideas ###
-
-El equipo en conjunto generamos ideas de las problemáticas más frecuente en ATM. La primera hipótesis fue “El principal problema en cajeros es el cobro de comisiones”. 
-
-![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
-
-### Observación en campo ###
-Realizamos la visita a la zona de cajeros de las sucursales bancarias Bancomer y Citibanamex para ver el número de cajeros, comportamiento e interacción de las personas al entrar/salir del cajero, tiempo en que se realiza una operación, visualización de elementos dentro del cajero (carteles, botes de basura, teléfonos especiales, etc.), comparación de cajeros para ver si había una consistencia en el diseño y modelo de las máquinas.
-
-![observacion](https://i.ibb.co/HpPn8Kj/Captura-de-pantalla-2019-06-03-a-la-s-22-49-37.png)
-
-### Benchmark ###
-El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcionamiento y estructura de cajeros automáticos de bancos como Citibanamex, Santander y BBVA Bancomer con el fin de saber qué era lo que estaban haciendo bien y cuáles serían las áreas de oportunidad de cada uno.
-
-### Entrevistas ###
-Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
-
-![entrevista](https://i.ibb.co/JpLqJjG/Captura-de-pantalla-2019-06-03-a-la-s-23-30-47.png)
-
-![entrevista](https://i.ibb.co/vzBF8Gv/Captura-de-pantalla-2019-06-03-a-la-s-23-30-01.png)
 
 ## User Personas ##
 
