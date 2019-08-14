@@ -29,7 +29,7 @@ La consultoría Touchpoints México nos entregó el reto de mejorar el servicio 
  
 El cajero automático ha evolucionado en los últimos años no solo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias, ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel  prioritario para contribuir a una mayor penetración bancaria en la población general. 
 
-Estos aparatos,  además de ser claramente uno de los canales de autoservicio más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Se argumenta que las máquinas ocasionaron un agravio a los bolsillos por 2 mil 262 millones de pesos en conjunto.
+Estos aparatos,  además de ser claramente uno de los autoservicios más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Se argumenta que las máquinas ocasionaron un agravio a los bolsillos por 2 mil 262 millones de pesos en conjunto.
 
 En consecuencia a todo esto, surgen las siguientes preguntas de investigación: 
 * ¿Cuál es el mayor problema de nuestros tarjetahabientes? 
@@ -47,7 +47,7 @@ Identificar el principal problema que existe en los cajeros ATM para ofrecer una
 
 #### Lluvia de ideas ###
 
-El equipo en conjunto generamos ideas de las problemáticas más frecuente en ATM. La primera hipótesis fue “El principal problema en cajeros es el cobro de comisiones”. 
+El equipo inició generando ideas sobre los conflictos más frecuentes en ATM. La primera hipótesis fue: “El principal problema en cajeros es el cobro de comisiones”. 
 
 ![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
 
@@ -59,7 +59,9 @@ En este punto, mapeamos los stakeholders que están involucrados en el servicio 
 
 ### Observación en campo ###
 
-Realizamos la visita a la zona de cajeros de las sucursales bancarias Bancomer y Citibanamex para ver el número de cajeros, comportamiento e interacción de las personas al entrar/salir del cajero, tiempo en que se realiza una operación, visualización de elementos dentro del cajero (carteles, botes de basura, teléfonos especiales, etc.), comparación de cajeros para ver si había una consistencia en el diseño y modelo de las máquinas.
+Realizamos la visita a la zona de cajeros de las sucursales de Bancomer y Citibanamex para ver el número de cajeros, comportamiento e interacción de las personas al entrar/salir, tiempo en que se realiza una operación, visualización de elementos dentro del cajero (carteles, botes de basura, teléfonos especiales, etc.), comparación de interfaces para ver si había una consistencia en el diseño y modelo de las máquinas.
+
+:page_facing_up: [Guía de observación](https://docs.google.com/document/d/1DrRdMiW3xi7xaOnP5x6oICojiLekHjeKvVCNxYpiY-A/edit?usp=sharing)
 
 ![observacion](https://i.ibb.co/HpPn8Kj/Captura-de-pantalla-2019-06-03-a-la-s-22-49-37.png)
 
@@ -132,8 +134,6 @@ A través de la técnica How might we? y de manera colaborativa generamos pregun
 
 Las herramientas que utilizamos para la fase de ideación fueron:
 Crazy 8´s para generar ideas y retar la creatividad, adaptar y jugar partiendo de la pregunta propuesta con el How might we. En un tiempo de 8 minutos y 8 personajes se pudo proponer ideas viables, posibles y, tal como lo indica el nombre de la técnica,  ideas locas pero no imposibles. La imaginación y el no juzgar las ideas fue parte del éxito para continuar en la fase de ideación.
-
-![crazy](https://i.ibb.co/HpPn8Kj/Captura-de-pantalla-2019-06-03-a-la-s-22-49-37.png)
 
 **From gains to wow** en donde enlistamos los aspectos o momentos que tenían conformes y/o satisfechos a los usuarios, así como los elementos que funcionan bien para mejorar aún más la experiencia al utilizar el servicio.
 
