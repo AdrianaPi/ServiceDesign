@@ -1,7 +1,7 @@
 
 # Cajero ATM : Una mirada desde el Service Design 
 
-## Resumen del proyecto ##
+### Resumen del proyecto ###
 
 La consultoría Touchpoints México nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera del país. El objetivo consistió en brindar una propuesta de valor bajo la metodología Service Design. Utilizando las lentes del doble diamante identificamos la principal queja de los usuarios de los cajeros ATM. En el transcurso del proyecto conocimos diversas técnicas dirigidas a fomentar la creatividad y el entendimiento del problema.
 
@@ -45,7 +45,7 @@ Decidimos tener un panorama general sobre el uso de los cajeros ATM, realizamos 
 
 ### Mapa de Stakeholders ##
 
-En este punto, mapeamos los stakeholders que están involucrados en el servicio de uso de cajero.  El mapa destaca con amarillo el área de atención a cliente por ser los puntos principales de interacción. Nos interesaba confirmar la hipótesis o reformularla al incluir la información de la dinámica total del servicio de cajeros. También, nos sirvió de guía para recabar el testimonio de las personas clave. Logramos tener contacto con usuarios, ejecutivos bancarios, recepcionista y un encargado de la UNE (Unidad Especializada de Atención) de un banco conocido.
+En este punto, usamos los datos de la investigación documental para mapear a las personas involucradas en el servicio. El mapa destaca con amarillo el área de atención a cliente por ser los puntos principales de interacción. Nos interesaba confirmar la hipótesis o reformularla al incluir la información de la dinámica total del servicio de cajeros. También, nos sirvió de guía para recabar el testimonio de las personas clave. Logramos tener contacto con usuarios, ejecutivos bancarios, recepcionista y un encargado de la UNE (Unidad Especializada de Atención) de un banco conocido.
 
 ![stakeholders](https://i.ibb.co/qF3VZdV/Captura-de-pantalla-2019-06-03-a-la-s-22-32-11.png)
 
@@ -65,19 +65,32 @@ El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcion
 
 Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
 
-## User Personas ##
+### Problematizar ###
 
- Con base en los resultados de la entrevista generamos un mapa de empatía por cada uno de los entrevistados para tener un conocimiento más profundo de su persona, su entorno y sus necesidades como usuarios de cajeros automáticos. Posterior a ello realizamos los ejes de comportamientos y los arquetipos para definir a nuestras user personas, definiendo dos, Magda Torres es la persona no digital y Pedro Velázquez la persona digital. 
+Ahora, nos dispusimos a confirmar o descartar las hipótesis construidas a lo largo de la investigación. La evidencia nos mostró que a las personas les molesta el cobro de comisiones, pero no se corresponde con el principal dolor. Iteramos el contenido del primer **4w´s** con el fin de establecer quién era la persona que "sufría", el momento, el suceso y las razones por las cuáles persistía el conflicto. Cabe recalcar que este proceso lo repetimos en varias ocasiones debido a los descubrimientos ofrecidos por las entrevistas y la revisión de los puntos de contacto del banco. 
 
+El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
+
+![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
+
+Nos enfocamos en: ¿cómo podríamos tranquilizar a los clientes que no reciben el dinero de un cajero?
+
+## ¿Quiénes sufren? ##
+
+ Con base en los resultados de la entrevista generamos un mapa de empatía por cada uno de los entrevistados para tener un conocimiento más profundo de su persona, su entorno y sus necesidades como usuarios de cajeros automáticos. Posterior a ello realizamos los ejes de comportamientos y los arquetipos para definir a nuestras User Personas.  
+
+* Magda Torres/no digital.
 ![Magda](https://i.ibb.co/yYc3FGb/Captura-de-pantalla-2019-06-03-a-la-s-22-21-11.png)
 
+
+
+ * Pedro Velázquez/digital.
 ![Pedro](https://i.ibb.co/SNskBB9/Captura-de-pantalla-2019-06-03-a-la-s-22-21-39.png)
 
 Ambos usuarios comparten similitudes en la perspectiva del cajero: 
 
 **Motivaciones**
 Encontrar personal que le ayude a efectuar operaciones o aclarar dudas.
-Busca que sus retiros sean seguros
 
 **Frustraciones**
 Falta de personal que le ayude a realizar una operación.
@@ -85,20 +98,14 @@ Desconocimiento del proceso para recuperar su dinero cuando hay una falla en el 
 Los bancos no se hacen responsables por las fallas. 
 
 
-
 ## Customer Journey Map ##
 
 ![journeymap](https://i.ibb.co/ch090WY/Captura-de-pantalla-2019-06-03-a-la-s-22-38-58.png)
 
-La elaboración del journey map fue un punto clave para visualizar los momentos ante, durante y después del problema de retirar el efectivo, planteando que la situación ocurre cuando el servicio en sucursal no está disponible, es decir, entre semana después de las 16:hrs, fines de semana o en cajeros que están en centros comerciales u otro establecimientos. Involucra la interacción con los stakeholders, los momentos de más dolor y/o satisfacción, las acciones y pensamientos del usuario, que ayudaron a pensar en la propuesta para solucionar el problema. Identificamos cuatro touchpoints críticos y con más dolor, estos fueron: 
+La elaboración del Journey Map fue un punto clave para visualizar los momentos ante, durante y después del problema de retirar el efectivo, planteando que la situación ocurre cuando el servicio en sucursal no está disponible, es decir, entre semana después de las 16:hrs, fines de semana o en cajeros que están en centros comerciales u otro establecimientos. Involucra la interacción con los stakeholders, los momentos de más dolor y/o satisfacción, las acciones y pensamientos del usuario, que ayudaron a pensar en la propuesta para solucionar el problema. Identificamos cuatro touchpoints críticos y con más dolor, estos fueron: 
 no recibir el efectivo cuando se espera salga del ATM, recibir un ticket y/o notificación de que el retiro se hizo con éxito y se refleja un saldo negativo, el momento en el que el cajero da la opción de realizar otra operación y el usuario lo que realmente espera es tener una solución, y por último cuando el usuario repite la consulta de saldo para verificar que el retiro no fue efectuado pero sí sucedió. Posterior a estos cuatro puntos el usuario pasa por un momento de incertidumbre por no saber qué hacer, con quién acudir o si realmente recuperará el dinero. 
 El punto de más satisfacción sucede cuando el usuario da solución a su problema y sale de la sucursal con su efectivo. 
 
-### Problematizar ###
-
-Ahora, nos dispusimos a El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
-
-![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
 
 ## Etapa de Ideación ##
 
