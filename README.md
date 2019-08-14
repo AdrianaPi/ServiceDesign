@@ -71,20 +71,18 @@ Ahora, nos dispusimos a confirmar o descartar las hipótesis construidas a lo la
 
 El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
 
-![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
-
 Nos enfocamos en: ¿cómo podríamos tranquilizar a los clientes que no reciben el dinero de un cajero?
 
 ## ¿Quiénes sufren? ##
 
  Con base en los resultados de la entrevista generamos un mapa de empatía por cada uno de los entrevistados para tener un conocimiento más profundo de su persona, su entorno y sus necesidades como usuarios de cajeros automáticos. Posterior a ello realizamos los ejes de comportamientos y los arquetipos para definir a nuestras User Personas.  
 
-* Magda Torres/no digital.
+:pushpin: No digital.
 ![Magda](https://i.ibb.co/yYc3FGb/Captura-de-pantalla-2019-06-03-a-la-s-22-21-11.png)
 
 
 
- * Pedro Velázquez/digital.
+:pushpin:   Digital.
 ![Pedro](https://i.ibb.co/SNskBB9/Captura-de-pantalla-2019-06-03-a-la-s-22-21-39.png)
 
 Ambos usuarios comparten similitudes en la perspectiva del cajero: 
@@ -98,14 +96,26 @@ Desconocimiento del proceso para recuperar su dinero cuando hay una falla en el 
 Los bancos no se hacen responsables por las fallas. 
 
 
-## Customer Journey Map ##
+## ¿Cuándo sucede? ##
+
+La elaboración del Journey Map fue un punto clave para visualizar el antes, durante y después del problema al retirar el efectivo y no recibirlo.
 
 ![journeymap](https://i.ibb.co/ch090WY/Captura-de-pantalla-2019-06-03-a-la-s-22-38-58.png)
 
-La elaboración del Journey Map fue un punto clave para visualizar los momentos ante, durante y después del problema de retirar el efectivo, planteando que la situación ocurre cuando el servicio en sucursal no está disponible, es decir, entre semana después de las 16:hrs, fines de semana o en cajeros que están en centros comerciales u otro establecimientos. Involucra la interacción con los stakeholders, los momentos de más dolor y/o satisfacción, las acciones y pensamientos del usuario, que ayudaron a pensar en la propuesta para solucionar el problema. Identificamos cuatro touchpoints críticos y con más dolor, estos fueron: 
-no recibir el efectivo cuando se espera salga del ATM, recibir un ticket y/o notificación de que el retiro se hizo con éxito y se refleja un saldo negativo, el momento en el que el cajero da la opción de realizar otra operación y el usuario lo que realmente espera es tener una solución, y por último cuando el usuario repite la consulta de saldo para verificar que el retiro no fue efectuado pero sí sucedió. Posterior a estos cuatro puntos el usuario pasa por un momento de incertidumbre por no saber qué hacer, con quién acudir o si realmente recuperará el dinero. 
-El punto de más satisfacción sucede cuando el usuario da solución a su problema y sale de la sucursal con su efectivo. 
 
+Planteando el escenario cuando el servicio en sucursal no está disponible, es decir, entre semana después de las 16:00 hr, fines de semana o en cajeros ubicados en centros comerciales u otros establecimientos. Identificamos tres puntos críticos y con más dolor, estos fueron: 
+
+1. Despúes de teclear la cantidad, el cajero hace el ruido característico de conteo, pero el efectivo no es estregado.
+2. Recibe un ticket y/o notificación de retiro exitoso.
+3. Revisa el saldo y observa el faltante.
+
+Posteriormente,  el usuario pasa por un momento de incertidumbre por no saber qué hacer, con quién acudir o si realmente recuperará el dinero. 
+
+## ¿Por qué persiste? ##
+
+Analizamos el problema hasta la raíz con la técnica de los 5 porqués.
+
+![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
 
 ## Etapa de Ideación ##
 
