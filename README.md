@@ -1,42 +1,21 @@
 
 # Cajero ATM : Una mirada desde el Service Design 
 
-## Índice
-
-- [Descripción](#resumen-del-proyecto)
-- [Objetivo](#objetivo)
-- [Problema](#problema)
-- [Método de investigación](#método-de-investigación)
-- [Etapa de descubrimiento](#etapa-de-descubrimiento)
-- [Lluvia de ideas](#lluvia-de-ideas)
-- [Observación en campo](#observación-en-campo)
-- [Benchmark](#benchmark)
-- [Entrevistas](#entrevistas)
-- [User Personas](#user-personas)
-- [Mapa de Stakeholders](#mapa-de-stakeholders)
-- [Customer Journey Map](#customer-journey-map)
-- [Etapa de ideación](#etapa-de-ideación)
-- [Prototipado](#prototipado)
-- [Testing](#testing)
-- [Propuesta](#propuesta)
-
-
 ## Resumen del proyecto ##
 
-La consultoría Touchpoints México nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera de México. El objetivo consistió en brindar una propuesta de valor bajo la metodología Service Design. Utilizando las lentes del doble diamante identificamos la principal queja de los usuarios de los cajeros ATM. En el transcurso del proyecto conocimos diversas técnicas dirigidas a fomentar la creatividad y el entendimiento del problema.
+La consultoría Touchpoints México nos entregó el reto de mejorar el servicio de cajeros automáticos de alguna institución financiera del país. El objetivo consistió en brindar una propuesta de valor bajo la metodología Service Design. Utilizando las lentes del doble diamante identificamos la principal queja de los usuarios de los cajeros ATM. En el transcurso del proyecto conocimos diversas técnicas dirigidas a fomentar la creatividad y el entendimiento del problema.
 
 ## Introducción
  
 El cajero automático ha evolucionado en los últimos años no solo como un medio para expender efectivo, sino como un multicanal para otros servicios bancarios como depósitos y transferencias, ventas de tiempo aire, o colectas de donativos. Debido a que el 60% de los pagos en México siguen haciéndose en efectivo, los cajeros tienen un papel  prioritario para contribuir a una mayor penetración bancaria en la población general. 
 
-Estos aparatos,  además de ser claramente uno de los autoservicios más flexible de las instituciones financiera  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Se argumenta que las máquinas ocasionaron un agravio a los bolsillos por 2 mil 262 millones de pesos en conjunto.
+Estos aparatos,  además de ser claramente uno de los autoservicios más flexible de las instituciones financieras  por reducir costos operativos, también aumentan la comodidad de sus clientes.  Sin embargo, de enero a septiembre de 2017 la Condusef registró 99 quejas de usuarios por hora, derivadas de problemas con cajeros automáticos. Se argumenta que las máquinas ocasionaron un agravio a los bolsillos por 2 mil 262 millones de pesos en conjunto.
 
 En consecuencia a todo esto, surgen las siguientes preguntas de investigación: 
 * ¿Cuál es el mayor problema de nuestros tarjetahabientes? 
-* ¿Cómo remediarlo?
-* ¿Cómo aterrizar una propuesta que no afecte a nuestro cliente? ¿Cómo ayudar verdaderamente a nuestro tarjetahabiente sin afectar a nuestro cliente?
+* ¿Cómo remediarlo tomando en cuenta los puntos de contacto del servicio?
 
-Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo una propuesta que fomente el darle una solución efectiva y sin desgaste a nuestros tarjetahabientes.
+Buscamos dar solución a los cuestionamientos.
 
 ## Objetivo
 
@@ -53,16 +32,16 @@ El equipo inició generando ideas sobre los conflictos más frecuentes en ATM. L
 
 ### Encuestas ###
 
-Decidimos tener un panorama general sobre el uso de los cajeros ATM, realizamos 43 encuestas sin importar la institución financiera a la que pertenecieran. La encuesta se realizó en un Form de Google con 10 preguntas sobre datos demográficos, experiencia con servicios bancarios y con cajeros ATM. Los resultados indicaron que:
+Decidimos tener un panorama general sobre el uso de los cajeros ATM, realizamos 43 encuestas a personas sin importar la institución financiera a la que pertenecieran. Empleamos un Form de Google con 10 preguntas sobre datos demográficos, experiencia con servicios bancarios y con cajeros ATM. Los resultados indicaron que:
 
 - Rango de edad: 24 a 29 años.
 - Bancos a los que pertenecen: Bancomer, Citibanamex, Santander y Banorte.
 - Las personas eligen una institución bancaria por la asignación de cuenta por nómina, las aplicaciones e inmersión digital y la cercanía del banco a su domicilio. 
 - Los usuarios utilizan el cajero entre tres a cinco veces al mes. 
-- Los usuarios tienen en promedio de 3 a 4 años utilizando el servicio de un mismo banco.
+- Los usuarios tienen en promedio de tres a cuatro años utilizando el servicio de un mismo banco.
 - Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y la disponibilidad. 
 - Las peores experiencias de los clientes con un cajero son: cuando no entrega la cantidad solicitada, pero sí refleja el retiro en el ticket y/o dispositivos; se tragan la tarjeta, están fuera de servicio o hay fila.
-- Las características para un servicio ideal son: que siempre tenga dinero, que no queden fuera de servicio, que sí entreguen el dinero solicitado.
+- Las características para un servicio ideal son: estar abastecidos con dinero suficiente, evitar estar fuera de servicio y entregar el dinero solicitado.
 
 ### Mapa de Stakeholders ##
 
@@ -85,12 +64,6 @@ El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcion
 ### Entrevistas ###
 
 Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
-
-### Problematizar ###
-
-El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
-
-![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
 
 ## User Personas ##
 
@@ -121,6 +94,11 @@ La elaboración del journey map fue un punto clave para visualizar los momentos 
 no recibir el efectivo cuando se espera salga del ATM, recibir un ticket y/o notificación de que el retiro se hizo con éxito y se refleja un saldo negativo, el momento en el que el cajero da la opción de realizar otra operación y el usuario lo que realmente espera es tener una solución, y por último cuando el usuario repite la consulta de saldo para verificar que el retiro no fue efectuado pero sí sucedió. Posterior a estos cuatro puntos el usuario pasa por un momento de incertidumbre por no saber qué hacer, con quién acudir o si realmente recuperará el dinero. 
 El punto de más satisfacción sucede cuando el usuario da solución a su problema y sale de la sucursal con su efectivo. 
 
+### Problematizar ###
+
+Ahora, nos dispusimos a El principal problema de los cajeros de Citibanamex es que no entregan el dinero cuando lo solicitan, con cifras de Condusef fueron 22,256 reclamaciones por “No entrega cantidad solicitada”.
+
+![imagen](https://i.ibb.co/c8fgJnk/Captura-de-pantalla-2019-06-03-a-la-s-22-36-35.png)
 
 ## Etapa de Ideación ##
 
