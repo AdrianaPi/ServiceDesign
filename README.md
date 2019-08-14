@@ -51,6 +51,19 @@ El equipo inició generando ideas sobre los conflictos más frecuentes en ATM. L
 
 ![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
 
+### Encuestas ###
+
+Decidimos tener un panorama general sobre el uso de los cajeros ATM, realizamos 43 encuestas sin importar la institución financiera a la que pertenecieran. La encuesta se realizó en un Form de Google con 10 preguntas sobre datos demográficos, experiencia con servicios bancarios y con cajeros ATM. Los resultados indicaron que:
+
+- Rango de edad: 24 a 29 años.
+- Bancos a los que pertenecen: Bancomer, Citibanamex, Santander y Banorte.
+- Las personas eligen una institución bancaria por la asignación de cuenta por nómina, las aplicaciones e inmersión digital y la cercanía del banco a su domicilio. 
+- Los usuarios utilizan el cajero entre tres a cinco veces al mes. 
+- Los usuarios tienen en promedio de 3 a 4 años utilizando el servicio de un mismo banco.
+- Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y la disponibilidad. 
+- Las peores experiencias de los clientes con un cajero son: cuando no entrega la cantidad solicitada, pero sí refleja el retiro en el ticket y/o dispositivos; se tragan la tarjeta, están fuera de servicio o hay fila.
+- Las características para un servicio ideal son: que siempre tenga dinero, que no queden fuera de servicio, que sí entreguen el dinero solicitado.
+
 ### Mapa de Stakeholders ##
 
 En este punto, mapeamos los stakeholders que están involucrados en el servicio de uso de cajero.  El mapa destaca con amarillo el área de atención a cliente por ser los puntos principales de interacción. Nos interesaba confirmar la hipótesis o reformularla al incluir la información de la dinámica total del servicio de cajeros. También, nos sirvió de guía para recabar el testimonio de las personas clave. Logramos tener contacto con usuarios, ejecutivos bancarios, recepcionista y un encargado de la UNE (Unidad Especializada de Atención) de un banco conocido.
@@ -72,23 +85,6 @@ El equipo hizo un análisis comparativo de los sitios web, aplicaciones, funcion
 ### Entrevistas ###
 
 Realizamos un total de seis entrevistas, tres de personas digitales y tres de personas no digitales con el fin de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y gains del uso del servicio para, posteriormente, tener una ideación sobre la solución del problema.
-
-### Encuestas ###
-
-Para acotar estos problemas y tener claramente cuales eran decidimos hacer 43 encuestas en línea, estos fueron los resultados:
- 
-![imagen](https://i.ibb.co/18C26dJ/Captura-de-pantalla-2019-06-03-a-la-s-21-50-17.png)
-![imagen](https://i.ibb.co/Hp9B3zk/Captura-de-pantalla-2019-06-03-a-la-s-21-51-05.png)
-![imagen](https://i.ibb.co/wB2HCQ1/Captura-de-pantalla-2019-06-03-a-la-s-21-51-19.png)
-![imagen](https://i.ibb.co/hK644WS/Captura-de-pantalla-2019-06-03-a-la-s-21-51-43.png)
-
- Los resultados indicaron que:
-- Las personas eligen una institución bancaria por asignación de cuenta por nómina, el servicio de aplicaciones e inmersión digital; y la cercanía del banco a su domicilio. 
-- Los usuarios utilizan el cajero entre tres a cinco veces al mes. 
-- Los aspectos positivos de los cajeros ATM es su fácil uso, la rapidez y  la disponibilidad. 
-- La peor experiencia que los clientes han tenido es que el cajero no entrega la cantidad solicitada pero sí refleja el retiro en el ticket y/o dispositivos. El 60% de los casos ocurrieron en Citibanamex. 
-- Otros aspectos que generan una mala experiencia es que los cajeros se tragan la tarjeta, están fuera de servicio y demora en fila. 
-
 
 ### Problematizar ###
 
