@@ -143,7 +143,7 @@ Las herramientas que utilizamos para la fase de ideación fueron:
 
 **From gains to wow** en donde enlistamos los aspectos o momentos que tenían conformes y/o satisfechos a los usuarios, así como los elementos que funcionan bien para mejorar aún más la experiencia al utilizar el servicio.
 
-Por medio del ejercicio de **Clustering**, agrupamos las ideas de Crazy´s 8 por afinidad y complementación. Utilizamos **Telescoping**, las big ideas fueron sometidas a votación por nosotras y por cinco usuarios para obtener aquellas más afines al objetivo y problema. Realizamos la **matriz de relevancia** para identificar los planteamientos con mayor relevancia y diferenciación.
+Por medio del ejercicio de **Clustering**, agrupamos las ideas de Crazy´s 8 por afinidad y complementación. Utilizamos **Telescoping**, las big ideas fueron sometidas a votación por nosotras y por cinco usuarios para obtener aquellas más afines al objetivo y problema. Realizamos la **matriz de relevancia** para identificar los planteamientos con mayor diferenciación.
 
 Posterior a identificar las big ideas, fue necesario validar si éstas iban acorde al negocio. Con ello hicimos el análisis **FODA**, donde consideramos los aspectos internos y externos de cada solución respecto al problema. También elaboramos el **Value proposition canvas** para facilitar la toma de decisiones antes de comenzar a prototipar la solución del problema, para ello se consideraron obstáculos, frustraciones, beneficios, aspiraciones y las necesidades de cada uno. Finalmente, jerarquizamos la información acorde a la importancia, lo esencial y lo extremo, lo funcional, lo usable y lo wow. 
 
