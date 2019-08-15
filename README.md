@@ -15,7 +15,7 @@ En consecuencia a todo esto, surgen las siguientes preguntas de investigación:
 * ¿Cuál es el mayor problema de nuestros tarjetahabientes? 
 * ¿Cómo remediarlo tomando en cuenta los puntos de contacto del servicio?
 
-Buscamos dar solución a los cuestionamientos.
+Buscamos comprender el funcionamiento del servicio y construir una propuesta.
 
 ## Objetivo
 
