@@ -143,9 +143,9 @@ Las herramientas que utilizamos para la fase de ideación fueron:
 
 **From gains to wow** en donde enlistamos los aspectos o momentos que tenían conformes y/o satisfechos a los usuarios, así como los elementos que funcionan bien para mejorar aún más la experiencia al utilizar el servicio.
 
-Por medio del ejercicio de **Clustering**, agrupamos las ideas de Crazy´s 8 por afinidad y complementación. Utilizamos **Telescoping**, las big ideas fueron sometidas a votación por nosotras y por cinco usuarios para obtener aquellas más afines al objetivo y problema. Realizamos la **matriz de relevancia** para identificar los planteamientos con mayor diferenciación.
+Por medio del ejercicio de **Clustering**, agrupamos las ideas de Crazy´s 8 por afinidad y complementación. Utilizamos **Telescoping**, las big ideas fueron sometidas a votación entre nosotras y cinco usuarios para obtener aquellas más afines al objetivo. Realizamos la **matriz de relevancia** para identificar los planteamientos con mayor diferenciación.
 
-Posterior a identificar las big ideas, fue necesario validar si éstas iban acorde al negocio. Con ello hicimos el análisis **FODA**, donde consideramos los aspectos internos y externos de cada solución respecto al problema. También elaboramos el **Value proposition canvas** para facilitar la toma de decisiones antes de comenzar a prototipar la solución del problema, para ello se consideraron obstáculos, frustraciones, beneficios, aspiraciones y las necesidades de cada uno. Finalmente, jerarquizamos la información acorde a la importancia, lo esencial y lo extremo, lo funcional, lo usable y lo wow. 
+Posterior a las big ideas, fue necesario validar si éstas iban acorde al negocio. Hicimos el análisis **FODA**, donde consideramos los aspectos internos y externos de cada solución respecto al problema. También, elaboramos el **Value proposition canvas** para facilitar la toma de decisiones antes de comenzar a prototipar la solución del problema, se consideraron los obstáculos, las frustraciones, los beneficios, las aspiraciones y las necesidades de cada uno. Finalmente, jerarquizamos la información acorde a la importancia, lo esencial y lo extremo, lo funcional, lo usable y lo wow. 
 
 ![lluvia](https://i.ibb.co/6F976vm/Captura-de-pantalla-2019-06-03-a-la-s-23-26-24.png)
 
@@ -163,7 +163,7 @@ Después de iterar y  corregir los errores de mensaje y flujo de navegación, se
 La situación fue planeada con el **User test planning canvas** para seccionar las tareas, y métricas más importantes a considerar.
 El prototipo se testeó con siete personas y la información se vació en un **User test analysis canvas**. Se utilizaron las técnicas de think aloud y walkthrough.
 
-Esta dinámica nos permitió detectar un **insight** crucial para la propuesta. El evento contiene una serie de factores que provocan incertidumbre a los usuarios, como el valor del dinero, la percepción sobre las instituciones bancarias, la urgencia por disminuir el estrés o vivir un trámite engorroso. El hallazgo nos remonta a las primeras etapas del desarrollo humano, cuando tenemos corta edad y al presentarse alguna dificultad, recurrimos al contacto de alguien cercano para calmarnos. De igual forma, en un momento como este, los y las participantes solicitaban esa cercanía. En pocas palabras:
+Esta dinámica nos permitió detectar un **insight** crucial para la propuesta. El evento contiene una serie de factores que provocan incertidumbre a los usuarios, como el valor del dinero, la percepción sobre las instituciones bancarias, la urgencia por disminuir el estrés o vivir un trámite engorroso. El hallazgo nos remonta a las primeras etapas del desarrollo humano, cuando tenemos corta edad y al presentarse alguna dificultad recurrimos al contacto de alguien cercano para calmarnos. De igual forma, en un momento como este, los y las participantes solicitaban esa cercanía. En pocas palabras:
 
 * Las personas buscan del contacto humano para aclarar sus dudas y así tranquilizarse.
 
